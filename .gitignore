@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# VS Code / editor settings
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Logs
+*.log
+
+# Node / Python / other common dev files (optional)
+node_modules/
+__pycache__/
+
+# Ignore hidden system files
+Thumbs.db
